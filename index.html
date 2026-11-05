@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0d12" id="meta-theme" />
+  <title>Arnab Maitra</title>
+  <meta name="description" content="" id="meta-desc" />
+  <meta name="keywords" content="" id="meta-keywords" />
+  <meta name="author" content="" id="meta-author" />
+  <meta property="og:title" content="" id="meta-og-title" />
+  <meta property="og:description" content="" id="meta-og-desc" />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <link rel="icon" href="logo-192.png" type="image/png" />
+</head>
+<body>
+  <!-- Preloader -->
+  <div id="preloader" class="preloader" aria-hidden="true">
+    <img src="logo-512.png" alt="" class="preloader-logo" id="preloader-logo" width="180" height="180" />
+  </div>
+
+  <!-- Navbar -->
+  <header class="site-header">
+    <nav class="nav" aria-label="Main">
+      <a href="#top" class="logo" aria-label="Arnab Maitra — home">
+        <img src="logo-192.png" alt="AM" class="logo-img" id="nav-logo" width="48" height="48" />
+      </a>
+      <div class="nav-links-wrapper">
+        <ul class="nav-links" id="primary-nav"></ul>
+        <div class="nav-more" id="nav-more" hidden>
+          <button type="button" class="more-btn" id="more-btn" aria-haspopup="true" aria-expanded="false" aria-controls="more-dropdown">
+            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/></svg>
+            <span>More</span>
+            <svg class="more-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <ul class="more-dropdown" id="more-dropdown" role="menu" hidden></ul>
+        </div>
+      </div>
+      <button type="button" class="menu-btn" aria-label="Open menu" aria-expanded="false">
+        <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
+      </button>
+    </nav>
+    <div class="mobile-menu">
+      <ul id="mobile-nav"></ul>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- Content rendered by script.js from data.json -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="site-footer"></footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

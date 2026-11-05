@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "title": "Arnab Maitra",
+    "description": "Arnab Maitra is an independent researcher, passionate in working at the crossroads of AI and healthcare, with a focus on responsible technology, and building trustworthy AI systems.",
+    "keywords": "Arnab Maitra, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Ethics, Bias & Trustworthy AI, Biomedical AI in Healthcare, Explainable AI in Digital Forensics",
+    "author": "Arnab Maitra",
+    "ogTitle": "Arnab Maitra",
+    "ogDescription": "Independence Researcher, Artificial Intelligence and Machine Learning.",
+    "themeColor": "#0b0d12"
+  },
+  "nav": [
+    {
+      "id": "about",
+      "label": "About",
+      "icon": "user"
+    },
+    {
+      "id": "skills",
+      "label": "Skills",
+      "icon": "code"
+    },
+    {
+      "id": "interests",
+      "label": "Interests",
+      "icon": "bulb"
+    },
+    {
+      "id": "academics",
+      "label": "Academics",
+      "icon": "grad"
+    },
+    {
+      "id": "publications",
+      "label": "Publications",
+      "icon": "book"
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "icon": "folder"
+    },
+    {
+      "id": "experiences",
+      "label": "Experiences",
+      "icon": "briefcase"
+    },
+    {
+      "id": "certificates",
+      "label": "Certificates",
+      "icon": "award"
+    },
+    {
+      "id": "awards",
+      "label": "Awards",
+      "icon": "trophy"
+    },
+    {
+      "id": "talks",
+      "label": "Talks",
+      "icon": "chat"
+    },
+    {
+      "id": "memberships",
+      "label": "Responsibilities",
+      "icon": "users"
+    },
+    {
+      "id": "responsibility",
+      "label": "Memberships",
+      "icon": "shield"
+    },
+    {
+      "id": "blog",
+      "label": "Blog",
+      "icon": "pen"
+    }
+  ],
+  "hero": {
+    "greeting": "Hello, I am",
+    "name": "Arnab Maitra",
+    "tagline": "Independent researcher, passionate in working at the crossroads of AI and healthcare, with a focus on responsible technology, and building trustworthy AI systems.",
+    "photo": "Scholar DP.png",
+    "photoAlt": "Arnab Maitra",
+    "social": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/-arnabmaitra/",
+        "style": "background:#0a66c2",
+        "svg": "linkedin"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/maitraarnab",
+        "style": "background:#24292f",
+        "svg": "github"
+      },
+{
+  "label": "Google Scholar",
+  "url": "https://scholar.google.com/citations?user=mmBJIMAAAAAJ&hl=en",
+  "style": "background:#4285f4",
+  "svg": "scholar"
+},
+{
+  "label": "ORCID",
+  "url": "https://orcid.org/0009-0006-4638-6908",
+  "style": "background:#A6CE39",
+  "svg": "orcid"
+},
+{
+  "label": "ResearchGate",
+  "url": "https://www.researchgate.net/profile/Arnab-Maitra-2",
+  "style": "background:#000000",
+  "svg": "researchgate"
+}
+    ],
+    "cv": {
+      "label": "Arnab's CV",
+      "items": [
+        {
+          "label": "View CV",
+          "url": "https://drive.google.com/file/d/1ndxYlQPiMlnRmEPiTY6V3MkZBZ0-chWY/view",
+          "icon": "grad"
+        }
+      ]
+    },
+    "contact": {
+      "label": "Contact Me",
+      "items": [
+        {
+          "label": "arnabmaitra.me@gmail.com",
+          "url": "mailto:arnabmaitra.me@gmail.com",
+          "icon": "mail"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Get to know me",
+    "title": "About Me",
+    "paragraphs": [
+      "I am Arnab Maitra, a budding researcher in Artificial Intelligence and Machine Learning, interested in developing intelligent systems that are reliable, interpretable, and useful in real-world settings. My research interests span AI, Healthcare, and Security, with a focus on Computer Vision, Vision Transformers, Explainable AI, Trustworthy AI, Ethical AI, Biomedical AI, and Digital Forensics.",
+      "I completed my M.Tech. from NITTTR Kolkata in 2026 under Prof. Chandan Chakraborty, following my B.Tech. from Asansol Engineering College in 2024 under Dr. Vedatrayee Chatterjee. During my B.Tech., I also worked briefly as a Research Intern at NIT Jamshedpur under Dr. Dinesh Kumar. My work is driven by questions around how AI makes decisions, how those decisions can be understood, and how AI can become more trustworthy, privacy-aware, and responsible. I am always open to connecting with researchers and practitioners who share these interests."
+    ],
+    "facts": [
+      {
+        "label": "Current Role",
+        "value": "Researcher"
+      },
+      {
+        "label": "Field of Research",
+        "value": "Artificial Intelligence and Machine Learning"
+      },
+      {
+        "label": "Institute",
+        "value": "Independent"
+      },
+      {
+        "label": "Years Active",
+        "value": "June 2026 - Present"
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Technical Skills",
+    "title": "Skills & Tools",
+    "desc": "Programming languages, frameworks, and tools in my technical toolkit.",
+    "core": [
+      {
+        "name": "Python",
+        "level": 90
+      },
+      {
+        "name": "Machine Learning Algorithms",
+        "level": 92
+      },
+      {
+        "name": "Convolutional Neural Networks",
+        "level": 80
+      },
+      {
+        "name": "Computer Vision",
+        "level": 75
+      },
+      {
+        "name": "Vision Transformers",
+        "level": 78
+      },
+      {
+        "name": "Natural Language Processing",
+        "level": 70
+      },
+      {
+        "name": "Deep Learning",
+        "level": 85
+      }
+    ],
+    "tools": [
+      {
+        "name": "Python",
+        "icon": "tool-python"
+      },
+      {
+        "name": "PyTorch",
+        "icon": "tool-pytorch"
+      },
+      {
+        "name": "TensorFlow",
+        "icon": "tool-tf"
+      },
+      {
+        "name": "Scikit-learn",
+        "icon": "tool-sklearn"
+      },
+      {
+        "name": "Pandas",
+        "icon": "tool-pandas"
+      },
+      {
+        "name": "Matplotlib",
+        "icon": "tool-mpl"
+      },
+      {
+        "name": "NumPy",
+        "icon": "tool-numpy"
+      },
+      {
+        "name": "R",
+        "icon": "tool-r"
+      },
+      {
+        "name": "MATLAB",
+        "icon": "tool-matlab"
+      },
+      {
+        "name": "Git",
+        "icon": "tool-git"
+      }
+    ]
+  },
+  "interests": {
+    "eyebrow": "Research Interests",
+    "title": "Interests",
+    "desc": "The questions and domains that drive my curiosity and research direction.",
+    "items": [
+      {
+        "label": "Ethical AI",
+        "icon": "sun"
+      },
+      {
+        "label": "Algorithmic bias & fairness",
+        "icon": "chip"
+      },
+      {
+        "label": "AI legal frameworks",
+        "icon": "book"
+      },
+      {
+        "label": "Data governance",
+        "icon": "eye"
+      },
+      {
+        "label": "Trustworthy AI systems",
+        "icon": "pin"
+      },
+      {
+        "label": "Medical Image Analysis",
+        "icon": "brain"
+      },
+      {
+        "label": "AI in Healthcare",
+        "icon": "scissors"
+      },
+      {
+        "label": "Explainable AI",
+        "icon": "grid"
+      },
+      {
+        "label": "Privacy-Preserving Machine Learning",
+        "icon": "git"
+      },
+      {
+        "label": "Deepfake Forensics",
+        "icon": "git"
+      },
+      {
+        "label": "Responsible AI",
+        "icon": "shield"
+      },
+      {
+        "label": "AI Safety",
+        "icon": "shield-plus"
+      }
+    ]
+  },
+  "academics": {
+    "eyebrow": "Education",
+    "title": "Academic Background",
+    "desc": "My educational journey and academic qualifications that have shaped my research outlook.",
+    "timeline": [
+      {
+        "period": "2024 – 2026",
+        "degree": "M.Tech in Artificial Intelligence & Machine Learning",
+        "institute": "NITTTR Kolkata | Deemed to be University under MoE, Govt. of India"
+      },
+      {
+        "period": "2020 – 2024",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "institute": "Asansol Engineering College | MAKAUT (formerly WBUT)"
+      },
+      {
+        "period": "2018 – 2020",
+        "degree": "Higher Secondary Education (Pure Science)",
+        "institute": "Bidhan Chandra Institution | WBCHSE"
+      },
+      {
+        "period": "2007 – 2018",
+        "degree": "Secondary Education",
+        "institute": "St. Xavier's School | CISCE"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "M.Tech. Dissertation",
+        "date": "May, 2026",
+        "sub": "NITTTR Kolkata · Vision Transformer Models for Dermatological Image Classification",
+        "icon": "book"
+      },
+      {
+        "title": "Journal Papers Submitted",
+        "date": "Jun, 2026",
+        "sub": "Springer, Elsevier, IEEE · Multiple manuscripts under review",
+        "icon": "file"
+      },
+      {
+        "title": "JIS Innovation Award",
+        "date": "Jan, 2026",
+        "sub": "Asansol Engineering College · Student Publication category",
+        "icon": "award"
+      },
+      {
+        "title": "Meritorious Student",
+        "date": "Dec, 2023",
+        "sub": "IIT Kharagpur AI4ICPS · TCS iON course recognition",
+        "icon": "grad"
+      }
+    ]
+  },
+  "publications": {
+    "eyebrow": "Preprints · In Publication · Submitted",
+    "title": "Publications",
+    "desc": "Peer-reviewed and submitted research spanning my research interests.",
+    "items": [
+      {
+        "type": "Journal Article",
+        "status": "Submitted",
+        "statusClass": "badge-submitted",
+        "title": "A Quantitative Analysis of Institutional Trading Behaviour in NIFTY 50 listed Stocks using AMD Candlestick Patterns and Machine Learning",
+        "abstract": "The predictive power of candlestick patterns within the Accumulation–Manipulation–Distribution (AMD) framework is examined quantitatively using machine learning on NIFTY 50 stocks.",
+        "authors": "Arnab Maitra, Kailash Chandra Mahatab, Rohan Saha, Barun Kr Paul, Kinsuk Giri*",
+        "date": "Submitted on: 30 June 2026",
+        "venue": "International Journal of Systems Assurance Engineering and Management (IJSA)",
+        "publisher": "Springer Nature",
+        "pdf": null
+      },
+      {
+        "type": "Journal Article",
+        "status": "Submitted",
+        "statusClass": "badge-submitted",
+        "title": "An Entropy-Weighted VIKOR Approach for Sustainable Selection of Supplementary Cementitious Materials in M25 Concrete",
+        "abstract": "X-ray binaries exhibit diverse spectral and temporal properties that are distinctly mapped in Color–Color Diagram (CCD) and analyzed here through a deep learning pipeline over MAXI/GSC data.",
+        "authors": "Supria Saha, Arnab Maitra*, Kunwar Raghvendra Singh",
+        "date": "Submitted on: 20 April 2026",
+        "venue": "Discover Civil Engineering",
+        "publisher": "Springer Nature",
+        "pdf": null
+      },
+      {
+        "type": "Journal Article",
+        "status": "Published",
+        "statusClass": "badge-published",
+        "title": "An efficient approach for breast cancer classification using machine learning",
+        "abstract": "This paper introduces a Convex Hull based Modified Agglomerative Clustering (hereafter HCL/HAL). Our proposed approach leverages computational geometry to improve the quality and efficiency of agglomerative clustering.",
+        "authors": "Vedatrayee Chatterjee*, Arnab Maitra, Soubhik Ghosh, Hritik Banerjee, Subhadeep Puitandi, Ankita Mukherjee",
+        "date": "Published on: 28 January 2024",
+        "venue": "Journal of Decision Analytics and Intelligent Computing",
+        "publisher": "Oasis Publication",
+        "pdf": "https://d1wqtxts1xzle7.cloudfront.net/129101423/34-libre.pdf?1769270145=&response-content-disposition=inline%3B+filename%3DAn_efficient_approach_for_breast_cancer.pdf&Expires=1786462689&Signature=dxtFl8M1MRVBS3SWhOiDZiZ0rHqy9l0bkWGPA2NfOwCd5W3BHOBwSb7-TC1pki-MudAzP044hKrd-GRHMd8GcT~bt1pWGHW44QXPItzeVLwMW0CGHt5zT3LyL6znEUpcsJbowKW0noYrYDSM-Q8IRMUFJGrkTvWarvK~qV08m~RrprihGHYhQfDHtqr9aryuYhNFRQxV8bsxKYPjlxb-ycDyCp2LnUD7MYJcnF6heJemUQcT78XzIyLxXgLujE5IVWJGD44BLzmQyK8P0fKj3snhNH7jtpQ33J1QkapnaX8KRhaJ6wUj7-rL0qoGXfbIiPILICK6Wdu3fZGmUyLL4Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Featured Work",
+    "title": "Projects",
+    "desc": "Selected projects spanning Artificial Intelligence, Machine Learning, and Computer Science.",
+    "items": [
+      {
+        "period": "Sept 2025 – May 2026",
+        "title": "Vision Transformer Models for Dermatological Image Classification",
+        "desc": "Implemented vision transformers for skin lesion classification, focusing on Monkeypox, Melanoma, and Psoriasis. Built and evaluated multiple architectures, progressing from pretrained CNN models to self-attention and hybrid approaches. Proposed an Uncertainty-Guided Dual-Stream Vision Transformer (UG-DSViT) that captures global and local lesion features while estimating prediction uncertainty using Monte Carlo Dropout and predictive entropy. Incorporated uncertainty-guided fusion to emphasize reliable representations and identify cases requiring expert verification.",
+        "tags": [
+          "Vision Transformer",
+          "Skin Lesion Classification",
+          "Deep Learning",
+          "Self-Attention",
+          "Classification",
+          "Uncertainty Estimation",
+          "Medical Image Analysis"
+        ],
+        "pdf": "https://drive.google.com/file/d/1Lj1vJ0v5z67n6vxVybGutKDMWxCn1qy_/view?usp=sharing"
+      },
+      {
+        "period": "Feb 2025 – Jun 2025",
+        "title": "A Quantitative Study of Stock Price Movements using Candlestick Patterns",
+        "desc": "Explored the application of machine learning for identifying Accumulation–Manipulation–Distribution (AMD) patterns in Indian equity markets using historical NIFTY 50 stock data. Utilized Python and scikit-learn for data preprocessing, outlier removal, candlestick feature extraction, and binary classification. Implemented Random Forest, Gradient Boosting, Support Vector Machine, and Logistic Regression to analyze bullish and bearish market movements following AMD patterns.",
+        "tags": [
+          "AMD Model",
+          "Candlestick Patterns",
+          "Machine Learning",
+          "Stock Market Analysis",
+          "NIFTY 50",
+          "Technical Analysis",
+          "Pattern Recognition"
+        ],
+        "pdf": "#"
+      },
+      {
+        "period": "Apr 2024 – May 2024",
+        "title": "Blockchain enabled Electronic Health Record System",
+        "desc": "Designed and partially implemented a blockchain-based electronic medical record system using Ethereum smart contracts to support secure and controlled management of patient information. Developed role-based functionality for administrators, doctors, and patients, enabling controlled access and management of medical records. Integrated a web-based interface for user registration, patient management, record handling, and interaction with the blockchain network, with a focus on data privacy, security, and access control.",
+        "tags": [
+          "Blockchain",
+          "Ethereum",
+          "Smart Contracts",
+          "Electronic Medical Records",
+          "Data Privacy",
+          "Access Control",
+          "Healthcare Security"
+        ],
+        "pdf": "https://drive.google.com/file/d/11jqlwqwMLi-cPBDyTLzoHz9m8tHHtSD8/view?usp=sharing"
+      },
+      {
+        "period": "Jul 2023 – Jun 2024",
+        "title": "Best Feature Selection of Breast Cancer Diagnosis using Light GBM Approach",
+        "desc": "Explored the application of machine learning for breast cancer classification, investigating how feature selection and data preprocessing can support the identification of benign and malignant tumors. Utilized Python for data processing and visualization, applying swarm plots and heat maps to analyze feature patterns and remove redundant features and outliers. Implemented and compared Logistic Regression, Gradient Boosting, Random Forest, XGBoost, and Light GBM algorithms to develop the classification framework.",
+        "tags": [
+          "Breast Cancer",
+          "Machine Learning",
+          "Feature Selection",
+          "Light GBM",
+          "Classification",
+          "Data Preprocessing"
+        ],
+        "pdf": "#"
+      }
+    ]
+  },
+  "experiences": {
+    "eyebrow": "Professional roles",
+    "title": "Work Experience",
+    "desc": "Professional experiences, roles, and opportunities that have shaped my journey.",
+    "items": [
+      {
+        "year": "2024",
+        "title": "Research Intern",
+        "company": "National Institute of Technology Jamshedpur",
+        "period": "1st April 2024 - 30th April 2024",
+        "desc": "Worked on a blockchain-based electronic medical record (EMR) system using Ethereum smart contracts for secure medical data management. Developed role-based functionality for administrators, doctors, and patients, with a focus on data privacy, security, access control, and controlled management of medical records."
+      }
+    ]
+  },
+  "certificates": {
+    "eyebrow": "Certificates",
+    "title": "Key Certifications",
+    "desc": "A collection of certifications and specialized courses I've completed to stay at the forefront of AI and Technology.",
+    "subtitle": "Courses",
+    "items": [
+      {
+        "date": "November 2026",
+        "title": "AI Security & Governance",
+        "issuer": "Securiti AI",
+        "skills": [
+          "AI Regulatory Compliance",
+          "AI for Risk Management",
+          "Responsible AI",
+          "AI Security",
+          "AI Governance"
+        ],
+        "certNo": "150BDAF4B-150BDADBA-1453C4773",
+        "url": "https://drive.google.com/file/d/1ysLap7ydsDbalyljCjiKuM6LP_XLYC-K/view?usp=sharing"
+      },
+      {
+        "date": "December 2023",
+        "title": "Hands-on Approach to AI for Real-world Applications",
+        "issuer": "IIT Kharagpur AI4ICPS | Hub Foundation and TCS iON",
+        "skills": [
+          "Applied AI",
+          "Machine Learning",
+          "Real-world Applications"
+        ],
+        "certNo": null,
+        "url": "https://drive.google.com/file/d/1ysLap7ydsDbalyljCjiKuM6LP_XLYC-K/view?usp=sharing"
+      },
+      {
+        "date": "September 2023",
+        "title": "Foundations of Cybersecurity",
+        "issuer": "Google",
+        "skills": [
+          "Cybersecurity",
+          "Network Security",
+          "Threat Awareness",
+          "Security Information and Event Management (SIEM)"
+        ],
+        "certNo": "9FP5XBVYLQ2Q",
+        "url": "https://drive.google.com/file/d/1XTH6KVk3Tm_vps-U8zdLzo6jDGe8YvJA/view?usp=drive_link"
+      },
+      {
+        "date": "March 2021",
+        "title": "Introduction to Cybersecurity Tools and Cyber Attacks",
+        "issuer": "IBM",
+        "skills": [
+          "Cybersecurity",
+          "Security Tools",
+          "Cyber Attacks"
+        ],
+        "certNo": "3GH5A4K27XTG",
+        "url": "https://drive.google.com/file/d/1vc6ENScmDcpJy3twt4hyyKG-pu6Xw9F3/view?usp=sharing"
+      }
+    ]
+  },
+  "awards": {
+    "eyebrow": "Recognition",
+    "title": "Awards & Honors",
+    "desc": "Recognition of academic excellence, research contributions, and meaningful achievements.",
+    "items": [
+      {
+        "title": "JIS Innovation Award 2026",
+        "institution": "Asansol Engineering College",
+        "period": "Jan 2026",
+        "detail": "Recognition received in \"Student Publication\" category"
+      },
+      {
+        "title": "Meritorious Student Recognition",
+        "institution": "IIT Kharagpur AI4ICPS | Hub Foundation and TCS iON",
+        "period": "Dec 2024",
+        "detail": "Acknowledged for good performance in their course \"Hands-on Approach to AI for Real-world Applications\"."
+      }
+    ]
+  },
+  "talks": {
+    "eyebrow": "Speaking",
+    "title": "Talks & Invited Lectures",
+    "desc": "Presentations, seminars, and invited lectures delivered to the research community.",
+    "items": [
+      {
+        "title": "SWAYAM in Digital Literacy",
+        "role": "Resource Person",
+        "institution": "Malda College",
+        "period": "May 2025",
+        "detail": "Delivered a tutorial on the use of the SWAYAM platform for digital literacy during the One-Day Faculty Induction Programme, organized by the Department of Mathematics and IQAC, highlighting technology-enabled learning in alignment with NEP 2020."
+      }
+    ]
+  },
+  "memberships": {
+    "eyebrow": "Service",
+    "title": "Positions of Responsibility",
+    "desc": "Roles, Duties & Service Across the Academic, Research & Societal Community",
+    "items": [
+      {
+        "title": "Kolpomanos Foundation",
+        "role": "Volunteer",
+        "period": "Since 2021",
+        "detail": "Member of the Institute of Electrical and Electronics Engineers, engaging with the global research community in AI and computational intelligence."
+      },
+      {
+        "title": "Science Club, Asansol Engineering College",
+        "role": "Student Coordinator",
+        "period": "2021 – 2023",
+        "detail": "Affiliated with the professional computing community, staying engaged with advances across machine learning and software systems."
+      }
+    ]
+  },
+  "responsibility": {
+    "eyebrow": "Affiliations",
+    "title": "Professional Memberships",
+    "desc": "Professional bodies and societies I am affiliated with as part of the research community.",
+    "empty": "Professional memberships will appear here soon.",
+    "items": []
+  },
+  "blog": {
+    "eyebrow": "From the Blog",
+    "title": "Thoughts from a Curious Mind — by Arnab Maitra",
+    "desc": "Research, academics, stories of people, places, food, culture, technology, and the everyday discoveries that make life interesting.",
+    "introTitle": "Thoughts from a Curious Mind.",
+    "languages": [
+      "English",
+      "বাংলা"
+    ],
+    "blogUrl": "https://blog.arnabmaitra.in/",
+    "featured": {
+      "url": "https://blog.arnabmaitra.in/post.html?id=1",
+      "tag": "Featured · কল্লোলিনী কলকাতা",
+      "date": "10 April 2026",
+      "readTime": "10 min read",
+      "title": "সুতানুটি : এক নদী, এক জনপদ, এক শহরের জন্মকথা",
+      "excerpt": "একটা শহরকে আমরা যতই তার বর্তমান দিয়ে চিনতে চাই, তার আসল গল্পটা অনেক সময় লুকিয়ে থাকে তার অতীতে। আজকের কলকাতা যে এত বড়, এত ব্যস্ত আর এত পরিচিত, তার শুরুটা কিন্তু ছিল একেবারেই অন্যরকম—নদীর ধারে ছোট ছোট জনপদ, সাধারণ মানুষের জীবন আর ধীরে ধীরে বদলে যেতে থাকা সময়ের মধ্যে। সুতানুটির গল্প সেই হারিয়ে যাওয়া সময়ের দিকে ফিরে তাকানোর একটা চেষ্টা। এখানে বড় বড় ঐতিহাসিক ঘটনার পাশাপাশি আছে একটা জনপদের জীবন, তার মানুষ, তাদের কাজকর্ম, নদীকে ঘিরে গড়ে ওঠা জীবিকা এবং সময়ের সঙ্গে সবকিছুর বদলে যাওয়ার গল্প। আজ আমরা যে কলকাতাকে চিনি, তার ভেতরে সেই পুরোনো সুতানুটিকে খুঁজে পাওয়া সহজ নয়। তবু তার কিছু চিহ্ন, কিছু স্মৃতি আর ইতিহাসের কিছু গল্প এখনও আমাদের মনে করিয়ে দেয়—একটা শহরেরও একটা শিকড় থাকে। আর সেই শিকড়ের কাছে ফিরে তাকালে কলকাতাকে হয়তো একটু অন্যভাবে দেখা যায়।"
+    }
+  },
+  "footer": {
+    "name": "Arnab Maitra",
+    "role": "Independent Researcher",
+    "field": "Artificial Intelligence and Machine Learning",
+    "address": "Home : Durgapur - 713213, West Bengal, India",
+    "email": "arnabmaitra.me@gmail.com",
+    "externalLinks": [
+      {
+        "label": "Arnab's Blog",
+        "url": "https://blog.arnabmaitra.in/"
+      }
+    ]
+  }
+}
